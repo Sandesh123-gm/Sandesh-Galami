@@ -1,0 +1,6 @@
+{
+  "name": "Safe Nepal Dashboard",
+  "description": "Safe Nepal Incident Reporting & Safety System (SNIRS) - AI-powered disaster alerts, emergency SOS, interactive provincial hazard maps, and survival checklists.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
